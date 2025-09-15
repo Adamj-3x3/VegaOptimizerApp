@@ -1,0 +1,1 @@
+python -m PyInstaller --onefile --windowed --name="OptionAnalyzer" --icon=icon.ico --collect-submodules numpy --collect-submodules scipy main_app.py 
